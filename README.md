@@ -16,6 +16,20 @@
 
 <br/>
 
+#### Checkout this proof-of-concept game I made with just Vue.js! <sup>(work in progress)</sup>
+<a href="https://pedromoreira.dev">
+  <img src="/assets/images/cv-quest-sm.png" alt="Game link" />
+</a>
+
+<br/>
+
+<a href="https://pedromoreira.dev">
+  pedromoreira.dev
+</a>
+<a href="https://github.com/pdcmoreira/pdcmoreira.github.io">
+  (source)
+</a>
+
 # Skills
 
 >Vue.js is my main skill. I've been using it as my weapon of choice since `v0.12.0`! 👴
