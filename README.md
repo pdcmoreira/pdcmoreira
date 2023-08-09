@@ -1,4 +1,4 @@
-<a href="https://github.com/onimur/handle-path-oz" target="_blank">
+<a href="https://stackoverflow.com/users/1931117/pedro-moreira" target="_blank">
   <img width="200px" align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=1931117&theme=dark" alt="Pedro Moreira's StackOverflow stats" />
 </a>
 
